@@ -1,0 +1,31 @@
+Patient_ID,Gender,Age,Blood_Pressure_Systolic,Blood_Pressure_Diastolic,Heart_Rate,Symptoms,Smoker,Diagnosis
+P001,Male,45.0,14.0,8.0,90.0,Cough,Yes,Flu
+P002,Female,55.0,13.0,7.0,85.0,Fever,No,COVID
+P003,Male,30.0,12.0,6.0,75.0,Cough,Yes,Cold
+P004,Female,40.0,14.0,,95.0,Fatigue,No,Flu
+P005,Male,65.0,16.0,9.0,88.0,Fever,Yes,COVID
+P006,Female,38.0,,8.0,82.0,Nose Running,No,Cold
+P007,Male,52.0,15.0,9.0,100.0,Cough,Yes,Flu
+P008,Female,29.0,12.0,7.0,80.0,Fatigue,No,Cold
+P009,Male,48.0,13.0,8.0,89.0,Fever,Yes,COVID
+P010,Female,35.0,14.0,6.0,90.0,Nose Running,,Flu
+P011,Male,59.0,16.0,9.0,,Fatigue,Yes,Flu
+P012,Female,41.0,13.0,7.0,85.0,Cough,No,Cold
+P013,Male,33.0,12.0,8.0,88.0,Fatigue,Yes,COVID
+P014,Female,,15.0,10.0,92.0,Fever,No,COVID
+P015,Male,50.0,13.0,,85.0,Nose Running,Yes,Cold
+P016,Female,60.0,16.0,9.0,95.0,Cough,No,Flu
+P017,Male,36.0,,7.0,83.0,Fever,Yes,COVID
+P018,Female,44.0,13.0,8.0,87.0,Cough,No,Flu
+P019,Male,27.0,14.0,7.0,76.0,Fatigue,Yes,Cold
+P020,Female,53.0,12.0,6.0,91.0,Fever,No,COVID
+P021,Male,39.0,13.0,7.0,79.0,Cough,Yes,Cold
+P022,Female,58.0,15.0,9.0,93.0,Nose Running,No,Flu
+P023,Male,46.0,16.0,10.0,88.0,Fever,Yes,COVID
+P024,Female,32.0,14.0,8.0,84.0,Fatigue,No,Cold
+P025,Male,,15.0,7.0,85.0,Cough,Yes,Flu
+P026,Female,49.0,13.0,,89.0,Fever,No,Cold
+P027,Male,62.0,12.0,6.0,77.0,Cough,,COVID
+P028,Female,31.0,13.0,7.0,90.0,Fatigue,Yes,Flu
+P029,Male,47.0,14.0,8.0,,Nose Running,No,Cold
+P030,Female,34.0,,9.0,86.0,Cough,Yes,COVID
